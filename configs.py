@@ -5,17 +5,17 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+    API_ID = int(os.getenv("API_ID", "25882792"))
+    API_HASH = os.getenv("API_HASH", "846699536cd018e1b55b7ea895156f08)
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5885824376:AAG8F9jJn35D51N00OMBs31r-P26jGfP_kY")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "PrimeflixCinemabot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBu7E15DZSLtIAjOOVjxzpWuhK5GmgRiAL7fnVI8EDCn5tBbC7lWtFAV8obyFL4sr6aegPrrOLfZ2pExUsdv6BtkfE3wo4EsJoKcSGM-LkkOYtbk7bqn7vIyYCsof7Dku6kabUr3udo3HqoW9XX4bxU5P3zEOyS5M6jTnHGCHg36nct74Rug1FWqXBDcym1_K96eiKRsGBN2T10t70aRZpTZRgYej088H8p1-WbCANCdQkB7zM2TpShrIUz1B-W6o-XzjIFQjoQi5fGtGJWTXPPo2N-NBqVhQuVxgz8i4iD_2PABGF6MA0lHbltP_6ArrfX2Lx6xt6DCWCrL8azyhkzPA=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001818441571")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Primeflix_Cinema_Official_Bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "1534651884"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Primeflix Cinema)
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Primflix_Cinema)
+#    GROUP_USERNAME = os.getenv("Primeflix Cinema")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
@@ -29,15 +29,16 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001513176205")
+1001513176205)
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Vaishnavi:9984685557@cluster0.yflinw0.mongodb.net/?retryWrites=true&w=majority")
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001890129704)
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "Primeflix_Cinema")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
-    AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
-    MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
+    AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 90))
+    MDISK_API = os.getenv("MDISK_API", "Wjfggi6SmxWBJ6xRmdA2)
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", """I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! 
 
@@ -108,7 +109,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @CyniteSupport
+👉 @Primeflix_Cinema
 
 """
 
